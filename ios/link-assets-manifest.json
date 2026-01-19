@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AveriaSerifLibre-Bold.ttf",
+      "sha1": "0aa52cb64d491af28fb686eb398d3c2f07dbc0f7"
+    },
+    {
+      "path": "src/assets/fonts/AveriaSerifLibre-Regular.ttf",
+      "sha1": "715d148b2c946d3a38e2c3942077b5d3beb556bb"
+    },
+    {
+      "path": "src/assets/fonts/OFL.txt",
+      "sha1": "f2f64ab1e0c0534b17e37ea562deb9d0f8907586"
+    }
+  ]
+}

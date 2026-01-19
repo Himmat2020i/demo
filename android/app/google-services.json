@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272733926254",
+    "project_id": "uktsa-dac05",
+    "storage_bucket": "uktsa-dac05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272733926254:android:cc4c9e5d95f0bf8b1b477f",
+        "android_client_info": {
+          "package_name": "com.in8it.uktsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn9nwliHv8g3JKdJ-dKtJXLewIyti_LGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
